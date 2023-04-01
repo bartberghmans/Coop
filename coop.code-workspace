@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "210303-210225-nodemcuv2",
+			"path": "..\\..\\PlatformIO\\Projects\\210303-210225-nodemcuv2"
+		},
+		{
+			"path": "..\\..\\Projects\\OrangePiZeroRFID"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"algorithm": "cpp",
+			"limits": "cpp",
+			"streambuf": "cpp",
+			"fstream": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"functional": "cpp",
+			"initializer_list": "cpp",
+			"iterator": "cpp",
+			"list": "cpp",
+			"memory": "cpp",
+			"queue": "cpp",
+			"random": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xlocnum": "cpp",
+			"xmemory": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"*.inc": "cpp"
+		}
+	}
+}

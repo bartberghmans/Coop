@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+button{
+    width: 50%;
+}
+.card {
+    background-color: rgba(223, 227, 231, 0.71);
+}
+.btn-group{
+    float: right;
+}
+.card-header {
+    background-color: #797979;
+    color: white;
+}

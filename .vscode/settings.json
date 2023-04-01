@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "streambuf": "cpp",
+        "fstream": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}
